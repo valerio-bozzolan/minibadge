@@ -50,6 +50,33 @@ The badge emits different light effects. Gently press the USER key to select the
 - `minibadge-cli/`: Contains the CLI tool to interact with the badge from a computer.
 - `docs/`: Contains all the documentation for the project.
 
+## Project Credits
+
+Special credits:
+
+- [Kezii](https://github.com/Kezii) - Supreme Badge Warlord, Supreme Circuitry Alchemist, Soldering Paste Virtuoso
+- sebastiano: Project Heritage Continuity Director, Glider Specifications and Quality Assurance Authority, Grandmaster of Antani
+
+All credits:
+
+- [arves100](https://github.com/arves100) - Crisis Simulation Director, RAEE Generator Director
+- [neonsn0w](https://github.com/neonsn0w) - RAEE Generator Operator
+- [Bildcraft1](https://github.com/Bildcraft1) - RAEE Generator Operator, Chief of Sound Engineering
+- claudio - Chief Troop Nutrition & Gastronomic, Patato-Logistics Manager, Culinary Trade Secrets Trustkeeper
+- [davidecaminati](https://github.com/davidecaminati) - Scam Advisor, Print Specialist
+- DragonEnergy - Troop Nutrition Chemistry Master, Potato Pipeline Operator
+- [d4nyl0](https://github.com/d4nyl0) - Metal Fusion Operator, User Documentation Auditor
+- DuckDuckGo's AI - Human Capital Elevator
+- [e1c4mp3r0](https://github.com/e1c4mp3r0) - Lights FX Terminologist, User Documentation Layout Supervisor
+- [k3lite](https://github.com/k3lite) - Badge Flame Leader, Metal Fusion Operator, User Documentation Auditor
+- fagianodorato99 - Fotonic Radiators Deployer
+- [LucentW](https://github.com/LucentW) - Chief Ethereal Access Sigils Provisioner
+- [MassiveBox](https://github.com/MassiveBox) - VIP Stress Management Specialist
+- Mike - Troop Nutrition Operator, Potato Pipeline Operator
+- [ru-ka](https://github.com/ru-ka) - Head of VIP Fashion Expression, Nutritional Lifestyle VIP Coach
+- [valerio](https://boz.reyboz.it/) - Chief User Documentation Auditor
+- ZioFrenk - Monocular Fotonic Radiators Deployer
+
 ## License
 
 The software is released under the GNU Genera Public License, version 3.
